@@ -23,6 +23,6 @@ python download_4chan.py <board> <thread_id> -o <output_dir>
 ```
 ## Arguments
 
-- borad is the 4chan board made for more accessibility 
-- thread_id is the ID of the thread you want to download media from
-- -o output_dir is the directory where downloaded files will be saved
+- "borad" is the 4chan board made for more accessibility 
+- "thread_id" is the ID of the thread you want to download media from
+- "output_dir" is the directory where downloaded files will be saved
